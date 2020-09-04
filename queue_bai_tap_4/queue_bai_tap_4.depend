@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597584700 source:d:\code_giai_thuat\queue_bai_tap_4\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+

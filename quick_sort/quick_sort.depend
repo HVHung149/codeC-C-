@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594524141 source:d:\code_giai_thuat\quick_sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+

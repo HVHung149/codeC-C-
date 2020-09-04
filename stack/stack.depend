@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597572627 source:d:\code_giai_thuat\stack\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

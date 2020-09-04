@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597488833 source:d:\code_giai_thuat\danh_sach_lien_ket_don\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<cstdlib>
+
